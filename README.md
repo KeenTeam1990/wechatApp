@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Wux Weapp
+# Weixin Weapp
 
 微信小程序自定义 UI 组件
 
