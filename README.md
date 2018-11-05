@@ -79,7 +79,7 @@ demo/
 
 ## 赞助
 
-请作者喝营养快线补补小身体(`・ω・´)
+<!--请作者喝营养快线补补小身体(`・ω・´)-->
 
 <p>
 <!--  <img src="http://pbqg2m54r.bkt.clouddn.com/alipay.jpg" width="256" height="350" style="display:inline;">-->
