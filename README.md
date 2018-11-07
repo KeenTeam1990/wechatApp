@@ -83,7 +83,7 @@ demo/
 
 <p>
   <img src="./screenshots/screenshot.gif" width="256" height="350" style="display:inline;">
-<!--  <img src="http://pbqg2m54r.bkt.clouddn.com/wxpay.jpg" width="256" height="350" style="display:inline;">-->
+  <img src=./screenshots/screenshot.gif" width="256" height="350" style="display:inline;">
 </p>
 
 ## 贡献
