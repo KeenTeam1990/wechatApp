@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://wux-weapp.github.io/wux-weapp-docs/">
-        <img width="200" src="./screenshots/logo.png">
+        <img width="200" src="./screenshots/logo.png" model="aspectFill">
     </a>
 </p>
 
