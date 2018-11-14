@@ -79,7 +79,7 @@ demo/
 
 ## 赞助
 
-<!--请作者喝营养快线补补小身体(`・ω・´)-->
+作者营养快线QQ:812144991@qq.com(`・ω・´)
 
 <p>
   <img src="./screenshots/screenshot.gif" width="256" height="350" style="display:inline;">
